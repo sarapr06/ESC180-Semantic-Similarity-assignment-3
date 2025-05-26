@@ -1,4 +1,6 @@
-# ESC180-Semantic-Similarity-assignment-3
+# Synonyms in Python
+ESC180 Semantic-Similarity assignment 3
+
 To build an intelligent system that can approximate the semantic similarity of any pair of words. Credits go to ESC180, instructor Michael Guerzhoy, and functions not described here are pre-written by Michael Guerzhoy
 
 The final file is the synonyms.py file, the txt files are the ones used for training.
